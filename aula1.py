@@ -16,4 +16,4 @@ def procuraintervalo(a,b,c):
     if funcao1*funcao2 <0:
         return xis1,xis2
     else:
-            
+        return ""    
